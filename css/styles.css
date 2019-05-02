@@ -1,0 +1,18 @@
+p {
+  color: #EEA243;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  border-left: 6px solid #F3D34A;
+  background-color: #C7892E;
+  margin: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 1px;
+}
